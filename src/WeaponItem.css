@@ -1,0 +1,9 @@
+tr, td {
+    border: 2px solid #E2D6B6;
+}
+td {
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: #B2A66C;
+}

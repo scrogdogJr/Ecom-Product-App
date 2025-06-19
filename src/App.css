@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #92A2A9;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #E2D6B6;
+}

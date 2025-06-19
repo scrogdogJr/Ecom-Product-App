@@ -1,0 +1,11 @@
+.border {
+    border: 2px solid #E2D6B6;
+}
+
+.headerCells {
+    color: #92A2A9;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
